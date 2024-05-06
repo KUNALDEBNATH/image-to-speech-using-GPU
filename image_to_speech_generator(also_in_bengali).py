@@ -65,9 +65,8 @@ for cap in captions:
 
 print(cap)
 
-pip install gtts
 
-pip install deep_translator
+
 
 from deep_translator import GoogleTranslator
 target_language = "Bengali" # @param ["English", "Spanish", "French", "German", "Italian", "Portuguese", "Polish", "Turkish", "Russian", "Dutch", "Czech", "Arabic", "Chinese (Simplified)", "Hindi", "Bengali"] {allow-input: true}
