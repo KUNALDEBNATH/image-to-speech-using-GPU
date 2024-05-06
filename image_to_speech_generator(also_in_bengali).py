@@ -61,7 +61,7 @@ for cap in captions:
     print("Generated Caption (GPT-2 Tokenizer):", cap)
     print("-" * 50)
 
-pip install googletrans
+
 
 print(cap)
 
